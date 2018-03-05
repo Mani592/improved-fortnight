@@ -1,2 +1,2 @@
-# improved-fortnight
+# Analysis through Aggregation
 Analysis of Journal Data set through Aggregation
